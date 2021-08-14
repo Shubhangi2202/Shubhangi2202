@@ -7,7 +7,11 @@
 
 <p align="center"> <a href="https://twitter.com/_ame_aimante_" target="blank"><img src="https://img.shields.io/twitter/follow/_ame_aimante_?logo=twitter&style=for-the-badge" alt="_ame_aimante_" /></a> </p>
 
-- 🔭 I’m currently working on **Frontend Development**
+- 😄 Pronouns: She / Her
+
+- <img alt="GIF" src="https://github.com/Shubhangi2202/Shubhangi2202/blob/main/Assets/Developer.gif" width="20vw" /> I’m currently working on **Frontend Development**
+
+- <img alt="GIF" src="https://github.com/Shubhangi2202/Shubhangi2202/blob/main/Assets/Designer.gif" width="20vw" /> I’m enthusiastic to learn and grow in **Designing &  UI/UX**
 
 - 🌱 I’m currently learning **JS, React, Angular and a lot more...**
 
