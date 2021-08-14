@@ -32,3 +32,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhangi2202&" alt="shubhangi2202" /></p>
 
+![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
+
