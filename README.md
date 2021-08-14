@@ -54,7 +54,7 @@
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhangi2202&show_icons=true&locale=en&layout=compact" alt="shubhangi2202" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhangi2202&show_icons=true&theme=dark&line height=27&count_private=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" style="width: 100%" " alt="shubhangi2202" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhangi2202&show_icons=true&locale=en" alt="shubhangi2202" /></p>
 
