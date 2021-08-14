@@ -59,4 +59,3 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhangi2202&show_icons=true&theme=dark&line height=27&count_private=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" style="width: 100%"" alt="shubhangi2202" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhangi2202&" alt="shubhangi2202" /></p>
-
