@@ -1,9 +1,25 @@
-<h1 align="center">Hi<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">, I'm SHUBHANGI</h1>
+# Hi, I'm Shubhangi&nbsp;<img src="https://github.com/Shubhangi2202/Shubhangi2202/blob/main/Assets/Hi.gif" width="30px">
+<img src="https://github.com/Shubhangi2202/Shubhangi2202/blob/main/Assets/SHUBHANGI%20HEADER%20-%201%20-%20GIF.gif" width="1000px" alt="">
+
 <h3 align="center">A passionate frontend developer, Graphics Designer and UI/UX enthusiast from India.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shubhangi2202&label=Profile%20views&color=0e75b6&style=flat" alt="shubhangi2202" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhangi2202" alt="shubhangi2202" /></a> </p>
+
+### <img src="https://github.com/Shubhangi2202/Shubhangi2202/blob/main/Assets/hi-icegif-2.gif" width="90px">**< / Hello world ! >** &nbsp;
+
+<p>
+  <em>
+    I am a 4th year undergraduate from <a href="https://www.cumminscollege.edu.in/"> <b>MKSSS Cummins College of Engineering</b>, Nagpur</a>.  
+    A budding <b>Frontend Developer</b> <img src="https://github.com/Shubhangi2202/Shubhangi2202/blob/main/Assets/Developer.gif" width="30px"> and a <b>Design Enthusiast,</b>&nbsp;<img src="https://github.com/Shubhangi2202/Shubhangi2202/blob/main/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
+    with the idea of <b>improving</b> herself in every aspect and wants a <b>platform</b> to 
+    <b>grow</b> <img src="https://github.com/Shubhangi2202/Shubhangi2202/blob/main/Assets/Rocket.gif" width="18px">and 
+    <b>excel.</b> <img src="https://github.com/Shubhangi2202/Shubhangi2202/blob/main/Assets/Medal.gif" width="20px">
+  </em>  
+</p>
+
+<br>
 
 <p align="center"> <a href="https://twitter.com/_ame_aimante_" target="blank"><img src="https://img.shields.io/twitter/follow/_ame_aimante_?logo=twitter&style=for-the-badge" alt="_ame_aimante_" /></a> </p>
 
