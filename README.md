@@ -21,14 +21,15 @@
 
 - 💬 Ask me about **Java, HTML, CSS & Bootstrap**
 
-- 📫 How to reach me **shubhangi.social2202@gmail.com**
+- 📫 How to reach me **infinitish22@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/_ame_aimante_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_ame_aimante_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shubhangi-993510175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubhangi-993510175" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shubhangi-993510175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubhangi-993510175" height="30" width="40" /></a>
 <a href="https://instagram.com/_ame_aimante_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ame_aimante_" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/shubhangisahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/shubhangisahu" height="30" width="40" /></a>
+<a href="https://www.behance.net/shubhangisahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/shubhangisahu" height="30" width="40" /></a>
+<a href="mailto:infinitish22@gmail.com" target="blank"><img align="center" src="https://github.com/Shubhangi2202/Shubhangi2202/blob/main/Assets/Gmail.svg" alt="Gmail logo" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
