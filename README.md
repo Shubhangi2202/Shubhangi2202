@@ -23,7 +23,7 @@
 
 <p align="center"> <a href="https://twitter.com/_ame_aimante_" target="blank"><img src="https://img.shields.io/twitter/follow/_ame_aimante_?logo=twitter&style=for-the-badge" alt="_ame_aimante_" /></a> </p>
 
-- <img alt="GIF" src="https://github.com/Shubhangi2202/Shubhangi2202/blob/main/Assets/happy-anime.gif" width="60vw" /> Pronouns: She / Her
+- <img alt="GIF" src="https://github.com/Shubhangi2202/Shubhangi2202/blob/main/Assets/happy-anime.gif" width="20vw" /> Pronouns: She / Her
 
 - <img alt="GIF" src="https://github.com/Shubhangi2202/Shubhangi2202/blob/main/Assets/Developer.gif" width="60vw" /> I’m currently working on **Frontend Development**
 
